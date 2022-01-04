@@ -1,0 +1,17 @@
+[07-Feb-2021 13:58:51 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[07-Feb-2021 13:58:53 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[07-Feb-2021 13:59:41 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[19-Feb-2021 17:47:56 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[19-Feb-2021 17:48:02 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[11-Mar-2021 13:14:08 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[08-May-2021 11:26:50 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[08-May-2021 11:26:52 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[26-Jun-2021 10:47:41 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[02-Jul-2021 12:21:10 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[07-Jul-2021 11:28:33 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[07-Jul-2021 11:28:34 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/landingprocess.php on line 29
+[09-Nov-2021 15:54:33 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/contact-model.php on line 38
+[16-Nov-2021 17:03:31 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/contact-model.php on line 38
+[16-Nov-2021 17:05:03 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/contact-model.php on line 38
+[29-Nov-2021 16:54:46 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/contact-model.php on line 38
+[29-Nov-2021 17:03:37 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/music-production-course-2021/contact-model.php on line 38
